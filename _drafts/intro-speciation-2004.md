@@ -11,7 +11,7 @@ description: Speciation, published in 2004, is a landmark book that provides a u
   over time.
 image:
 category:
-- Evolution, Theory
+- Reading Reflection, Book, Speciation
 tags:
 - speciation
 ---
@@ -44,12 +44,12 @@ gantt
 
 ### Phase 1: From the Origin of Species (1859)
 
-Darwin’s ideas on the origin of species were influenced by Malthus’s theory [1], particularly the notion that the disparity between the tendency for overpopulation and the limitation of available resources leads to famine and disease, which in turn reduce populations to sustainable levels. So similar to this theory, Darwin proposed that new species arise through natural selection acting on variation within overpopulating populations.
+Darwin’s ideas on the origin of species were influenced by Malthus’s theory [^1], particularly the notion that the disparity between the tendency for overpopulation and the limitation of available resources leads to famine and disease, which in turn reduce populations to sustainable levels. So similar to this theory, Darwin proposed that new species arise through natural selection acting on variation within overpopulating populations.
 
 ![MalthusAndDarwin](../assets/img/intro-speciation-2004.assets/MalthusAndDarwin.jpg)
-*Figure 1. Darwin's ideas were influenced by Malthus. Tom Dunne [1]*
+*Figure 1. Darwin's ideas were influenced by Malthus. Tom Dunne [^1]*
 
-But wait, is this **adaptation**, where species evolve toward fitness peaks, or **speciation**, which involves the emergence of new reproductive barriers that give rise to distinct species? It turns out his book is titled as The Origin of Species, but it focuses more on variation within instead of between populations, so he actually conflated these two evolutionary processes. The successors of Darwin's theory were divided into two opposing schools, Naturalists and Mutationalists. 
+But wait, is this **adaptation**, where species evolve toward fitness peaks, or **speciation**, which involves the emergence of new reproductive barriers that give rise to distinct species? It turns out his book is titled as *The Origin of Species*, but it focuses more on variation within instead of between populations, so he actually conflated these two evolutionary processes. The successors of Darwin's theory were divided into two opposing schools, Naturalists and Mutationalists. 
 
 
 
@@ -57,4 +57,4 @@ But wait, is this **adaptation**, where species evolve toward fitness peaks, or 
 
 ## References
 
-[1] 1798: Darwin and Malthus. *American Scientist* https://www.americanscientist.org/article/1798-darwin-and-malthus (2017).
+[^1]: 1798: Darwin and Malthus. *American Scientist* https://www.americanscientist.org/article/1798-darwin-and-malthus (2017).
